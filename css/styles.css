@@ -1,0 +1,32 @@
+#title {
+    font-weight: bold;
+    background: rebeccapurple;
+    -webkit-background-clip: text;
+    background-clip: text;
+    text-align: center;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial;
+}
+
+#titleCanvas1 {
+    font-weight: bold;
+    background: #000080;
+    -webkit-background-clip: text;
+    background-clip: text;
+    text-align: center;
+    -webkit-text-fill-color: transparent;
+    font-size: 25px;
+}
+
+#titleCanvas2 {
+    font-weight: bold;
+    background: #FFDB58;
+    -webkit-background-clip: text;
+    background-clip: text;
+    text-align: center;
+    -webkit-text-fill-color: transparent;
+    font-size: 25px;
+
+}
